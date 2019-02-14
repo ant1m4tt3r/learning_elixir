@@ -12,8 +12,6 @@ defmodule IslandsEngine do
       :world
 
   """
-  alias IslandsEngine.Island
-
   def hello do
     :world
   end
